@@ -1,4 +1,4 @@
-#' Title
+#' Get Auxiliary Files
 #'
 #' @return
 #' @export

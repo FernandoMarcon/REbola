@@ -1,4 +1,4 @@
-#' Title
+#' Get lncRNAs Reannotation
 #'
 #' @param dirname
 #' @param fname

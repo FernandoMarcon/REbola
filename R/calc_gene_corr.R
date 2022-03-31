@@ -1,4 +1,4 @@
-#' Title
+#' Calculate Gene Expression Correlation
 #'
 #' @param ds
 #' @param corr_method

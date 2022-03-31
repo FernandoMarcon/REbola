@@ -1,5 +1,4 @@
-#--- Preprocess Geneva dataset
-#' Title
+#' Preprocess Geneva dataset
 #'
 #' @param counts
 #' @param pheno

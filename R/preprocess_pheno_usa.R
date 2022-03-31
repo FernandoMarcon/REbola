@@ -1,7 +1,4 @@
-
-#=== USA ===#
-#--- Pheno
-#' Title
+#' Preprocess Pheno Data From USA Cohort
 #'
 #' @param pheno
 #' @param print_schema

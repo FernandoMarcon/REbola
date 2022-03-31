@@ -1,3 +1,16 @@
+#' Save Data
+#'
+#' @param data
+#' @param dttype
+#' @param consort
+#' @param cohort
+#' @param dtset
+#' @param dtlevel
+#'
+#' @return
+#' @export
+#'
+#' @examples
 save_data <- function( data,
                        dttype    = NULL,
                        consort   = NULL,

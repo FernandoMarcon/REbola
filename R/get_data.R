@@ -1,4 +1,4 @@
-#' Title
+#' Get Data From Server
 #'
 #' @param consort
 #' @param cohort
