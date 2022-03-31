@@ -1,0 +1,10 @@
+Package: REbola
+Type: Package
+Title: Reproducible Ebola Vaccine Research
+Version: 0.1.0
+Author: Fernando Marcon Passos
+Maintainer: The package maintainer <fmarcon@alumni.usp.br>
+Description: Package for Automatization and Reproducibility of Procedures, Analysis and Results from Ebola Consortium
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
